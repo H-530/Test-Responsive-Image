@@ -1,6 +1,6 @@
 <div align="center">
 
-![Extension logo](docs/images/media-queries.jpg)
+<img src="docs/images/media-queries.jpg" width="300" height="200">
 
 # Test Responsive Image 
 
